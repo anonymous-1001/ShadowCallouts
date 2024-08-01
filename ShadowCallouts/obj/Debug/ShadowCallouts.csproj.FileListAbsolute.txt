@@ -1,0 +1,10 @@
+C:\Users\Hello\Documents\ShadowCallouts\ShadowCallouts\bin\Debug\ShadowCallouts.dll
+C:\Users\Hello\Documents\ShadowCallouts\ShadowCallouts\bin\Debug\ShadowCallouts.pdb
+C:\Users\Hello\Documents\ShadowCallouts\ShadowCallouts\bin\Debug\LSPD First Response.dll
+C:\Users\Hello\Documents\ShadowCallouts\ShadowCallouts\bin\Debug\RagePluginHookSDK.dll
+C:\Users\Hello\Documents\ShadowCallouts\ShadowCallouts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hello\Documents\ShadowCallouts\ShadowCallouts\obj\Debug\ShadowCallouts.csproj.AssemblyReference.cache
+C:\Users\Hello\Documents\ShadowCallouts\ShadowCallouts\obj\Debug\ShadowCallouts.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Documents\ShadowCallouts\ShadowCallouts\obj\Debug\ShadowCa.26EA384C.Up2Date
+C:\Users\Hello\Documents\ShadowCallouts\ShadowCallouts\obj\Debug\ShadowCallouts.dll
+C:\Users\Hello\Documents\ShadowCallouts\ShadowCallouts\obj\Debug\ShadowCallouts.pdb
